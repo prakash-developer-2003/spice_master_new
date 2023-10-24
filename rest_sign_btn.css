@@ -1,0 +1,13 @@
+.bg-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.699),rgba(0, 0, 0, 0.363)) ,url(./img/rest\ back.jpg);
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+
+.bg-img button{
+    width: 100%;
+}
